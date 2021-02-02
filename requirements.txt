@@ -1,4 +1,4 @@
-# Si tienen un error al descarga la libreria PyAudio en windows -> ir a: https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio -> buscar la libreria de la siguiente linea -> crear una carpeta en libs en el directorio actual y ejecutar el comando que aparece abajo. 
+# Si tienen un error al descarga la libreria PyAudio en windows -> ir a: https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio -> buscar la libreria de la siguiente linea (PyAudio-0.2.11-cp38-cp38) (win64 ó win32.whl)  -> crear una carpeta en libs en el directorio actual y ejecutar el comando que aparece abajo. 
 # ./libs/PyAudio-0.2.11-cp38-cp38-win32.whl
 PyAudio==0.2.11
 SpeechRecognition==3.8.1
